@@ -1,5 +1,5 @@
 # PlayPMF
-Simple program that calls different versions of ffplay based on the pmf file.
+Simple windows program that calls different versions of ffplay based on the pmf file.
 
 <b> Install </b>
 <br>
